@@ -1,6 +1,19 @@
 Farm Management System using oop/java
 This project is a simulation of a farm managment system 
 It demonstrates how animals and food interact with each other using oop principles
+(updated for task three including
+📌 Encapsulation (private variables with getters/setters)
+📌 Constructors
+📌  Inheritance using extends
+📌  Method Overriding
+📌 Polymorphism
+📌 Abstraction (Abstract class or Interface)
+📌 Packages
+📌 Access Modifiers (private, protected, public)
+📌 Array or ArrayList
+📌  User input using Scanner
+📌 Exception Handling using try-catch)
+
 
 This project includes the following OOP concepts:
 
